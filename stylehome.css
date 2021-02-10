@@ -1,0 +1,25 @@
+#startbutton{
+
+    margin-left: 45%;
+    margin-top: 35%;
+    width: 175px;
+    height:55px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(208, 247, 172);
+    
+
+  }
+  body{
+      background-image: url("assets/backgroundhome.jpg");
+      background-repeat: no-repeat;
+      background-size: 100% 250%;
+}
+h1{
+   text-align: center;
+   font-size: 3em;
+   font-weight: 700;
+   color: salmon;
+   margin-top: 70px;
+}
+      
